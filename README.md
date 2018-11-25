@@ -14,5 +14,9 @@ Sample website with plenty of files for demos
 
 Example text. More text..
 
+## How to contribute
+
+Fork this repository
+
 ### Copyright
 2018 Training.
