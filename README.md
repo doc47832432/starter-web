@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 ## Deployment
 
 Example text. More text..
+
+### Copyright
+2018 Training.
