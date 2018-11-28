@@ -20,4 +20,4 @@ Example text. More text..
 Fork this repository
 
 ### Copyright
-2018 Training.
+2018 Training. All rights reserved.
